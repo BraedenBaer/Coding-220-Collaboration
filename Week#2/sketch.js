@@ -1,33 +1,8 @@
-llink to piece
-https://editor.p5js.org/
-
-This is what chat GPT came up with for a pizza made with code:
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  background(255);
-
-  // Draw a brown circle for the pizza base
-  fill(160, 82, 45);
-  ellipse(200, 200, 300, 300);
-
-  // Draw red circles for tomato sauce
-  fill(255, 0, 0);
-  ellipse(150, 150, 100, 100);
-  ellipse(250, 250, 100, 100);
-
-  // Draw yellow circles for cheese
-  fill(255, 255, 0);
-  ellipse(180, 220, 80, 80);
-  ellipse(220, 180, 80, 80);
-}
 
 
 
 
-This is what I made for a pizza made with code:
+//This is what I made for a pizza made with code:
 function setup() {
   createCanvas(400, 400);
 }
@@ -68,7 +43,7 @@ function draw() {
   ellipse( 250, 250, 25, 25)
   ellipse( 340, 150, 25, 25)
 }
-Looking back at the two pizzas I believe mine is the more superier piece. While Chat GPT new how to make the shapes and color theingredients of the pizza
-yet when it came down to positioning and editing sizes to make thispiece look like it was made by a person and not some ai. That being said Chat GPT will deffinitly 
-be a lot of help for the reminder of this course.
+//Looking back at the two pizzas I believe mine is the more superier piece. While Chat GPT new how to make the shapes and color theingredients of the pizza
+//yet when it came down to positioning and editing sizes to make thispiece look like it was made by a person and not some ai. That being said Chat GPT will deffinitly 
+//be a lot of help for the reminder of this course.
   
